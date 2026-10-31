@@ -1,0 +1,17 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# PyTest cache
+.pytest_cache/
+
+# Coverage files
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.vscode/
